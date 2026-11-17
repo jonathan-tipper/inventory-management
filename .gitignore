@@ -53,3 +53,7 @@ logs/
 
 # Environment variables
 .env
+
+# Local browser inspection artifacts
+.playwright-cli/
+output/playwright/
